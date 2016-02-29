@@ -1,7 +1,7 @@
-------- [ tikidur.com ] -------
+------- [ http://tikidur.com ] -------
 
-- files on AWS EC2
+- files on AWS s3
 - domain name at gandi
-- using bb hook to update seamlessly
+- using travis-ci to deploy
 
 ------------------------------
